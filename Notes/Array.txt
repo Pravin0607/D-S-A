@@ -1,0 +1,13 @@
+All about Array data structure.
+ - Array is a collection of data elements of same data type stored at the contigious memmory loacation.
+   -hence Array is called homogenious data type.
+   -Array index start from zero.
+   -Array index ends at n-1 where n is size of  Array.
+ 
+ -Advantages
+   -provides random access to elements.
+   -used to implement stack and queue data structures.
+ -Disadvantages
+   -Array size is fixed.
+   -its a homogenious 
+   insertion,deletion is not easy.
